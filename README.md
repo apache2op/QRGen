@@ -10,7 +10,7 @@ Create QR code for any URL instantly
 
 ## Links
 
-- Solution URL: [GitHub Repository](https://github.com/apache2op/QRGen)
+- Project URL: [GitHub Repository](https://github.com/apache2op/QRGen)
 - Live Site URL: [Live Site](https://apache2op.github.io/QRGen/)
 
 ## Built with
